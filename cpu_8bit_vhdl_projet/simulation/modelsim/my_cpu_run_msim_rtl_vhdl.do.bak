@@ -1,0 +1,17 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -93 -work work {C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/rom_128x8_sync.vhd}
+vcom -93 -work work {C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/rw_96x8_sync.vhd}
+vcom -93 -work work {C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/Output_Ports.vhd}
+vcom -93 -work work {C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/ALU.vhd}
+vcom -93 -work work {C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/memory.vhd}
+vcom -93 -work work {C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/data_path.vhd}
+vcom -93 -work work {C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/control_unit.vhd}
+vcom -93 -work work {C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/cpu.vhd}
+vcom -93 -work work {C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/my_cpu.vhd}
+

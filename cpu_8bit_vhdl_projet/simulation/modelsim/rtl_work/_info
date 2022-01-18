@@ -1,0 +1,375 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Melissay\Desktop\cpu_8bit_vhdl_projet\simulation\modelsim
+Ealu
+Z1 w1642499872
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\Melissay\Desktop\cpu_8bit_vhdl_projet\simulation\modelsim
+Z7 8C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/ALU.vhd
+Z8 FC:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/ALU.vhd
+l0
+L6
+VX2YUK20LUVVV`@7HoESXc0
+Z9 OV;C;10.1d;51
+31
+Z10 !s108 1642502309.700000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/ALU.vhd|
+Z12 !s107 C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/ALU.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+!s100 4z3;NoQNRW]668Yf>AcJz2
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 3 alu 0 22 X2YUK20LUVVV`@7HoESXc0
+l19
+L15
+VjFhjCz`HYknWd;3EPoDei3
+R9
+31
+R10
+R11
+R12
+R13
+R14
+!s100 Q[7cQi@Ogn:kKgDGBA0;d0
+!i10b 1
+Econtrol_unit
+Z15 w1642500041
+R4
+R5
+R6
+Z16 8C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/control_unit.vhd
+Z17 FC:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/control_unit.vhd
+l0
+L4
+VN0G@NBB2RJRPMU<LJK?=N1
+R9
+31
+Z18 !s108 1642502310.122000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/control_unit.vhd|
+Z20 !s107 C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/control_unit.vhd|
+R13
+R14
+!s100 fJ[fnDN_4z<8H=O]@XTO`2
+!i10b 1
+Abehavioral
+R4
+R5
+DEx4 work 12 control_unit 0 22 N0G@NBB2RJRPMU<LJK?=N1
+l29
+L22
+VjWZlP7kYCSO?Ja[V687871
+R9
+31
+R18
+R19
+R20
+R13
+R14
+!s100 4Ge47zmnG6iVXPj1?0CPX1
+!i10b 1
+Ecpu
+Z21 w1642500147
+R4
+R5
+R6
+Z22 8C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/cpu.vhd
+Z23 FC:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/cpu.vhd
+l0
+L4
+ViVLnlC@=hL`z;PYmVk[l03
+R9
+31
+Z24 !s108 1642502310.622000
+Z25 !s90 -reportprogress|300|-93|-work|work|C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/cpu.vhd|
+Z26 !s107 C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/cpu.vhd|
+R13
+R14
+!s100 eXIYK:5a6Ye2anLTkQQ0?1
+!i10b 1
+Abehavioral
+R4
+R5
+DEx4 work 3 cpu 0 22 iVLnlC@=hL`z;PYmVk[l03
+l64
+L13
+VYUb:MPGo5NPd69fj`e4P:0
+R9
+31
+R24
+R25
+R26
+R13
+R14
+!s100 0^1z8G;E[0:leR:9l^ioZ2
+!i10b 1
+Edata_path
+Z27 w1642499991
+R2
+R3
+R4
+R5
+R6
+Z28 8C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/data_path.vhd
+Z29 FC:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/data_path.vhd
+l0
+L8
+VFFS>38=fc5Q_SlAJ5Jb9b1
+R9
+31
+Z30 !s108 1642502309.950000
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/data_path.vhd|
+Z32 !s107 C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/data_path.vhd|
+R13
+R14
+!s100 [e8ajb?oP1D9P2R<4zHAc2
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 9 data_path 0 22 FFS>38=fc5Q_SlAJ5Jb9b1
+l40
+L28
+V]a9KTh>lADP6cmanWQOUK3
+R9
+31
+R30
+R31
+R32
+R13
+R14
+!s100 <;;`oAbPS?^939MzjDT9Y3
+!i10b 1
+Ememory
+Z33 w1642499949
+R4
+R5
+R6
+Z34 8C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/memory.vhd
+Z35 FC:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/memory.vhd
+l0
+L6
+V]X[cFIQY>bbJQQ8PZ5iGK0
+R9
+31
+Z36 !s108 1642502309.825000
+Z37 !s90 -reportprogress|300|-93|-work|work|C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/memory.vhd|
+Z38 !s107 C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/memory.vhd|
+R13
+R14
+!s100 AdC?A8^8?;MVm8PbbCkej0
+!i10b 1
+Abehavioral
+R4
+R5
+DEx4 work 6 memory 0 22 ]X[cFIQY>bbJQQ8PZ5iGK0
+l92
+L47
+VFz1oC;9_1j6D6Y>^c8NUJ0
+R9
+31
+R36
+R37
+R38
+R13
+R14
+!s100 AmWfCeKUi1QaIn41@HY5_3
+!i10b 1
+Emy_cpu
+Z39 w1642502059
+R4
+R5
+R6
+Z40 8C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/my_cpu.vhd
+Z41 FC:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/my_cpu.vhd
+l0
+L4
+VE::L8T^2j19nT^:AQGP>F1
+R9
+31
+Z42 !s108 1642502311.075000
+Z43 !s90 -reportprogress|300|-93|-work|work|C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/my_cpu.vhd|
+Z44 !s107 C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/my_cpu.vhd|
+R13
+R14
+!s100 KQ96ceeQPJe4h?8Wgb;MM2
+!i10b 1
+Abehavioral
+R4
+R5
+DEx4 work 6 my_cpu 0 22 E::L8T^2j19nT^:AQGP>F1
+l94
+L41
+VVL>J1d_YPl=Vc_U62XP?d0
+R9
+31
+R42
+R43
+R44
+R13
+R14
+!s100 kUX2Q=MXWU<T>TJMK7Y_c1
+!i10b 1
+Eoutput_ports
+Z45 w1642499821
+R2
+R3
+R4
+R5
+R6
+Z46 8C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/Output_Ports.vhd
+Z47 FC:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/Output_Ports.vhd
+l0
+L7
+V@:FM@6<;Ga44o=Zl8a8[l2
+R9
+31
+Z48 !s108 1642502309.263000
+Z49 !s90 -reportprogress|300|-93|-work|work|C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/Output_Ports.vhd|
+Z50 !s107 C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/Output_Ports.vhd|
+R13
+R14
+!s100 NTfS7I>K@4J[;FCkh>NQ?3
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 12 output_ports 0 22 @:FM@6<;Ga44o=Zl8a8[l2
+l41
+L33
+VfQ9cch?`XbE7:NP5`2gTB3
+R9
+31
+R48
+R49
+R50
+R13
+R14
+!s100 4gKGdG4B[5g2<;39XTSm`3
+!i10b 1
+Erom_128x8_sync
+Z51 w1642499765
+R2
+R3
+R4
+R5
+R6
+Z52 8C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/rom_128x8_sync.vhd
+Z53 FC:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/rom_128x8_sync.vhd
+l0
+L7
+VYlhH99K0Dm4:S2Ibf1lDZ0
+R9
+31
+Z54 !s108 1642502308.137000
+Z55 !s90 -reportprogress|300|-93|-work|work|C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/rom_128x8_sync.vhd|
+Z56 !s107 C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/rom_128x8_sync.vhd|
+R13
+R14
+!s100 [kQloYfKnOknNZ9oDhObG2
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 14 rom_128x8_sync 0 22 YlhH99K0Dm4:S2Ibf1lDZ0
+l51
+L15
+V8Z>N_>9fGgWXO`Dod6K4=0
+R9
+31
+R54
+R55
+R56
+R13
+R14
+!s100 6dF5>T^NzgVTdk?85@mOo3
+!i10b 1
+Erw_96x8_sync
+Z57 w1642499797
+R2
+R3
+R4
+R5
+R6
+Z58 8C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/rw_96x8_sync.vhd
+Z59 FC:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/rw_96x8_sync.vhd
+l0
+L8
+VDLlH@TeblGz>SMeDm7`n93
+R9
+31
+Z60 !s108 1642502308.309000
+Z61 !s90 -reportprogress|300|-93|-work|work|C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/rw_96x8_sync.vhd|
+Z62 !s107 C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/rw_96x8_sync.vhd|
+R13
+R14
+!s100 `7N030`IKi:=]gi=mOc4Z3
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 12 rw_96x8_sync 0 22 DLlH@TeblGz>SMeDm7`n93
+l46
+L18
+VTEcNCh5L[QL3QiHZBX^LY2
+R9
+31
+R60
+R61
+R62
+R13
+R14
+!s100 HbgREPo6H[[zEJ`<M@X]M1
+!i10b 1
+Etest_bench_02
+Z63 w1642502197
+R4
+R5
+R6
+Z64 8C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/test_bench_02.vhd
+Z65 FC:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/test_bench_02.vhd
+l0
+L5
+VWUbmf@X84T62_S7VlD6kI1
+!s100 R3kd7OUVQ6aR[94a4^CEe0
+R9
+31
+!i10b 1
+Z66 !s108 1642502311.247000
+Z67 !s90 -reportprogress|300|-93|-work|work|C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/test_bench_02.vhd|
+Z68 !s107 C:/Users/Melissay/Desktop/cpu_8bit_vhdl_projet/test_bench_02.vhd|
+R13
+R14
+Atest_bench_02_arch
+R4
+R5
+DEx4 work 13 test_bench_02 0 22 WUbmf@X84T62_S7VlD6kI1
+l87
+L8
+V?7@SF`hF;5Jz74hFfZO^]3
+!s100 gjjbzaZYRc8T_YgVlVz0_3
+R9
+31
+!i10b 1
+R66
+R67
+R68
+R13
+R14
